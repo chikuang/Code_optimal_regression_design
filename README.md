@@ -11,23 +11,31 @@ regression design.
 
 ### Online computing tools such as Shiny App
 
-- <https://elviscuihan.shinyapps.io/Dc_optimal_design/>
+- Finding Dual-Objective Optimal Designs for the Beta Regression Model
+  <https://elviscuihan.shinyapps.io/Dc_optimal_design/>
 
-- <https://willgertschapps.shinyapps.io/Single-Objective-Designs-for-Toxicology/>
+- nonlinear models used in toxicology and for estimating the benchmark
+  dose
+  <https://willgertschapps.shinyapps.io/Single-Objective-Designs-for-Toxicology/>
 
-- <https://pingyangchen.shinyapps.io/stdmmoptdesigninhibition/>
+- <https://pingyangchen.shinyapps.io/stdmmoptdesigninhibition/>. This
+  seems outdated
 
-- <https://pubmed.ncbi.nlm.nih.gov/33232777/>
+- optimal designs for single substance and interaction trials in dose
+  response experiments <https://pubmed.ncbi.nlm.nih.gov/33232777/>
 
-- <https://biostatistics.dkfz.de/DoseResponseDesigns/>
+- Optimal Experimental Design for single substance and interaction
+  trials <https://biostatistics.dkfz.de/DoseResponseDesigns/>
 
 - <http://optimal-design.biostat.ucla.edu/optimal/> based on the paper
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3781293/>. but it appeared
   to be out-of-service.
 
-- <https://www.aocdweb.com/OMtools/cobra>
+- A web application for catalyst optimization by linear regression
+  <https://www.aocdweb.com/OMtools/cobra>
 
-- <https://www.jstatsoft.org/article/view/v099i01>
+- Optimal Design Generation and Power Evaluation in R: The skpr Package
+  <https://www.jstatsoft.org/article/view/v099i01>
 
 ### Packages, Toolbox or code to code optimal regression design
 
