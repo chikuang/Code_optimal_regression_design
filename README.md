@@ -9,21 +9,32 @@ Collection of code for computing optimal regression designs
 This repo is to store a collection of code for computing optimal
 regression design.
 
-+. <https://elviscuihan.shinyapps.io/Dc_optimal_design/>
+### Online computing tools such as Shiny App
 
-+. <https://pingyangchen.shinyapps.io/stdmmoptdesigninhibition/>
+- <https://elviscuihan.shinyapps.io/Dc_optimal_design/>
 
-+. <https://pubmed.ncbi.nlm.nih.gov/33232777/>
+- <https://willgertschapps.shinyapps.io/Single-Objective-Designs-for-Toxicology/>
 
-+. <https://biostatistics.dkfz.de/DoseResponseDesigns/>
+- <https://pingyangchen.shinyapps.io/stdmmoptdesigninhibition/>
 
-+. <http://optimal-design.biostat.ucla.edu/optimal/> based on the paper
-<https://pmc.ncbi.nlm.nih.gov/articles/PMC3781293/>. but it appeared to
-be out-of-service.
+- <https://pubmed.ncbi.nlm.nih.gov/33232777/>
 
-+. <https://www.aocdweb.com/OMtools/cobra>
+- <https://biostatistics.dkfz.de/DoseResponseDesigns/>
 
-+. <https://www.jstatsoft.org/article/view/v099i01>
+- <http://optimal-design.biostat.ucla.edu/optimal/> based on the paper
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC3781293/>. but it appeared
+  to be out-of-service.
+
+- <https://www.aocdweb.com/OMtools/cobra>
+
+- <https://www.jstatsoft.org/article/view/v099i01>
+
+### Packages, Toolbox or code to code optimal regression design
+
+- List of code complied by Prof. Radoslav Harman from Comenius
+  University: <http://www.iam.fmph.uniba.sk/ospm/Harman/design/>
+
+- <https://cansur.wayne.edu/>
 
 ### TODO
 
