@@ -10,7 +10,7 @@ output: github_document
 
 ### Description
 
-This repo is to store a collection of code for computing optimal regression design.
+This repo is to store a collection of code for computing optimal regression design. It will be updated occasionally.
 
 
 ### Online computing tools such as Shiny App
@@ -43,4 +43,4 @@ https://www.jstatsoft.org/article/view/v099i01
 + https://cansur.wayne.edu/
 
 ### TODO
-+ [ ] To add the titles and associated papers for each of the above link.
++ [ ] Add more details about each of the entry, and add more related papers and references.

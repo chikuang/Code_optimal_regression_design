@@ -2,12 +2,12 @@ Collection of code for computing optimal regression designs
 ================
 *Chi-Kuang Yeh*
 
-*March 19, 2025*
+*March 23, 2025*
 
 ### Description
 
 This repo is to store a collection of code for computing optimal
-regression design.
+regression design. It will be updated occasionally.
 
 ### Online computing tools such as Shiny App
 
@@ -46,5 +46,5 @@ regression design.
 
 ### TODO
 
-- [ ] To add the titles and associated papers for each of the above
-  link.
+- [ ] Add more details about each of the entry, and add more related
+  papers and references.
