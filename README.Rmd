@@ -42,5 +42,14 @@ https://www.jstatsoft.org/article/view/v099i01
 
 + https://cansur.wayne.edu/
 
+### References for myself to read
+
++ ICAOD: An R Package for Finding Optimal designs for Nonlinear Statistical Models by Imperialist Competitive Algorithm
+https://journal.r-project.org/articles/RJ-2022-043/
+
++ fdesigns: Bayesian Optimal Designs of Experiments for Functional Models in R https://arxiv.org/abs/2411.09225
+
 ### TODO
 + [ ] Add more details about each of the entry, and add more related papers and references.
+
++ [ ] Divide and organize references to subcategories, such as Bayesian optimal design, optimal design for nonlinear models, etc.
